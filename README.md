@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is jean-léo dary and i am a computer science engineer at enseeiht. I am a specialist in 3D modeling, AI and many other digital domains.
+<img src="linkedin.jpg" width ="250"/>
 <!--
 **naoutix/naoutix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
