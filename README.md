@@ -5,8 +5,9 @@ I am a specialist in 3D modeling, AI and many other digital domains.
 ------
 📫 How to reach me:  
 
-- <img src="asset/mail.png" width ="20" height="20"/> <naoutix.reply@gmail.com>  
-- <img src="asset/linkedin.png" width ="20" height="20"/> [**Jean-Léo DARY**](https://www.linkedin.com/in/jean-leo-dary/)
+- <img src="asset/mail.png" width ="20" height="20"/>  **<naoutix.reply@gmail.com>**  
+
+- <img src="asset/linkedin.png" width ="20" height="20"/>  [**Jean-Léo DARY**](https://www.linkedin.com/in/jean-leo-dary/)
 
 🔭 I’m currently working on : 
 - my [website](https://naoutix.github.io) see the repo : <https://github.com/naoutix/naoutix.github.io>
